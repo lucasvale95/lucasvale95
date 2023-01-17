@@ -5,7 +5,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<i class="devicon-nodejs-plain"></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 
