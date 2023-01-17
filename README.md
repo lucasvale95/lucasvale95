@@ -7,14 +7,8 @@
 
 
 
-## ⚡ GitHub Stats
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasvale95&theme=gotham&line_height=40&hide=css"/> </a> 
- 
- 
- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasvale95&theme=gotham&line_height=40&hide=css)
- 
- 
- ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)
+## ⚡ GitHub Stats 
+ ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasvale95&theme=gotham&line_height=40&hide=css&layout=compact)
 
 <!--
 **lucasvale95/lucasvale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
