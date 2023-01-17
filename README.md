@@ -1,7 +1,7 @@
 # Olá, me chamo SeuNomeAqui ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)
 
 <!--
 **lucasvale95/lucasvale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
