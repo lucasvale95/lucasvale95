@@ -4,12 +4,9 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvale95)](https://github.com/lucasvale95/github-readme-stats)
+ ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)
 
 <!--
 **lucasvale95/lucasvale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
