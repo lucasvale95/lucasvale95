@@ -1,6 +1,14 @@
 # Olá, me chamo SeuNomeAqui ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)
 
 <!--
