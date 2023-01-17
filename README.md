@@ -1,4 +1,8 @@
-### Hi there 👋
+# Olá, me chamo SeuNomeAqui ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95)](https://github.com/lucasvale95/github-readme-stats)
+
 
 <!--
 **lucasvale95/lucasvale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
