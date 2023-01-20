@@ -21,6 +21,6 @@
 
 #
 ### ⚡ GitHub Status 
- ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasvale95&theme=gotham&line_height=40&hide=css&layout=compact)
+ ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvale95&show_icons=true&theme=gotham&line_height=40&hide=css)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasvale95&theme=gotham&line_height=40&hide=css&layout=compact)
 
 
