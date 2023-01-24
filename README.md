@@ -1,6 +1,6 @@
 ## Olá, Eu sou Lucas! 👋
 
-- :computer:	Desenvolvedor [b]FullStack[/b].
+- :computer:	Desenvolvedor **FullStack**.
 - 🌱 Atualmente estou aprendendo NextJS.
 - :books: Aluno da Kenzie Academy.
 
