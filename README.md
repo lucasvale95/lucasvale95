@@ -1,7 +1,7 @@
 ## Olá, Eu sou Lucas! 👋
 
 - :computer:	Desenvolvedor **Full-Stack**.
-- :books: Aluno da Kenzie Academy.
+- :books: Formado pela Kenzie Academy.
 
 #
 
